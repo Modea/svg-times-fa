@@ -1,0 +1,9 @@
+{
+  "name": "svg-times-fa",
+  "version": "1.0.0",
+  "author": "Modea",
+  "description": "Font-Awesome times icon as an svg angular 1.5 component.",
+  "main": "times.js",
+  "license": "OFL-1.1",
+  "ignore": []
+}
